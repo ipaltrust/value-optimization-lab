@@ -1,5 +1,5 @@
 # PakPal — AI–Spiritual Integrator
-Designing impact where Artificial Intelligence meets spiritual clarity.
+Integrating Artificial Intelligence with spiritual clarity to build structured and sustainable impact.
 
 ---
 
@@ -17,6 +17,9 @@ Platform eksperimen integrasi AI, sistem berpikir, dan nilai Qurani.
 Membangun sistem kerja bernilai, stabil, dan berdampak luas.
 
 ## 🧠 Core Identity
-Value Optimizer adalah arsitek sistem yang membantu individu dan organisasi mengubah potensi menjadi dampak terstruktur dan berkelanjutan.
+AI–Spiritual Integrator adalah arsitek sistem yang menghubungkan kecerdasan buatan dengan nilai-nilai ilahiah untuk menghasilkan kepemimpinan yang jernih, terstruktur, dan berkelanjutan.
+
+Bukan sekadar menggunakan AI.
+Tetapi memastikan AI memperkuat nilai, bukan menggantikannya.
 
 Founder: PakPal
