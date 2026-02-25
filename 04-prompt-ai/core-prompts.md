@@ -57,3 +57,36 @@ Berikan:
 - Potensi bottleneck
 - Cara otomatisasi dengan AI
 - Rekomendasi efisiensi
+
+---
+
+# Advanced Level – Strategic Architect Mode
+
+## 6️⃣ Ecosystem Designer Prompt
+Anda adalah Ecosystem Architect.
+Bantu saya merancang ekosistem jangka panjang untuk:
+[ISI VISI]
+
+Berikan:
+- Komponen utama sistem
+- Hubungan antar komponen
+- Model monetisasi
+- Growth loop berkelanjutan
+- Risiko strategis dan mitigasinya
+
+---
+
+## 7️⃣ Positioning & Authority Builder
+Analisa positioning saya di bidang:
+[ISI BIDANG]
+
+Berikan:
+- Unique Value Proposition
+- Diferensiasi dibanding kompetitor
+- Strategi membangun otoritas 3 tahun
+- Konten pilar yang harus dibuat
+
+---
+
+## 8️⃣ 10X Leverage Analyzer
+Evaluasi aktivitas
