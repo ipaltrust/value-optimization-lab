@@ -1,0 +1,1 @@
+Folder visi dan arah strategis.
