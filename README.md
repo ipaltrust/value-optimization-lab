@@ -22,4 +22,8 @@ AI–Spiritual Integrator adalah arsitek sistem yang menghubungkan kecerdasan bu
 Bukan sekadar menggunakan AI.
 Tetapi memastikan AI memperkuat nilai, bukan menggantikannya.
 
+## 🎯 Target Audience
+
+Hybrid Leaders — pemimpin yang ingin mengintegrasikan nilai spiritual dengan sistem organisasi modern berbasis AI.
+
 Founder: PakPal
