@@ -1,11 +1,11 @@
-# PakPal — Value Optimizer
-Designing impact through AI, system thinking, and spiritual clarity.
+# PakPal — AI–Spiritual Integrator
+Designing impact where Artificial Intelligence meets spiritual clarity.
 
 ---
 
 # Value Optimization Lab
 
-Platform eksperimen integrasi nilai, sistem, dan AI.
+Platform eksperimen integrasi AI, sistem berpikir, dan nilai Qurani.
 
 ## 🔹 Fokus
 - AI Productivity System
