@@ -16,3 +16,7 @@ Vision → Framework → Modul → Tools → Impact
 
 ## 4. Long-Term Goal
 Menciptakan ekosistem kepemimpinan berbasis nilai yang scalable.
+
+## AI Integration Layer
+
+Framework → Prompt System → Modul → Produk Digital → Impact
